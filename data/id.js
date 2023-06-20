@@ -1,0 +1,10 @@
+import identifiants from "../models/identifiants";
+import { Imagesource } from "react-native-elements";
+
+export const IDENTIFIANTS =[
+    new identifiants('https://www.shutterstock.com/image-vector/faceless-woman-face-icon-female-260nw-2263344341.jpg','c1','Loick','https://i.notretemps.com/1400x787/smart/2022/02/17/arbre.jpeg','Hate de voir grandir le nouveau citronier','Que represente cette image? \n \n Arrose des plante  \n Tri ses déchets'),
+    new identifiants('https://meetanentrepreneur.lu/wp-content/uploads/2019/08/profil-linkedin-1.jpg','c2', 'Tim', 'https://us.123rf.com/450wm/pryzmat/pryzmat1503/pryzmat150300026/38586665-three-plastic-trash-bins-with-segregated-household-garbage-pet-bottles-paper-and-metal-cans-shot.jpg?ver=6',"Je viens d'organiser mes déchets, c'est super satisfaisant",'Que represente cette image? \n \n Arrose des plante  \n Tri ses déchets'),
+    new identifiants('https://www.shutterstock.com/image-vector/faceless-woman-face-icon-female-260nw-2263344341.jpg','c3', 'Alix','https://media.istockphoto.com/id/1273454530/fr/photo/trois-gosses-nettoyant-la-plage.jpg?s=612x612&w=0&k=20&c=sa5FFp7vLro5_uzXPSWr-2j1OUHUQsRLLwJDzuDjUnw=',"Aujourd'hui j'ai fait une collecte de déchets sur la plage!",'Que represente cette image? \n \n Arrose des plante  \n Tri ses déchets'),
+    new identifiants('https://www.shutterstock.com/image-vector/faceless-woman-face-icon-female-260nw-2263344341.jpg','c4', 'Margaux_Barbarin','https://www.denormandie.fr/wp-content/uploads/2020/11/plantesvertes.jpg','Nouvelles plantes achetées à Truffaut','Que represente cette image? \n \n Arrose des plante  \n Tri ses déchets'),
+    new identifiants('https://meetanentrepreneur.lu/wp-content/uploads/2019/08/profil-linkedin-1.jpg','c5', 'Clara','https://leshopzerodechet.fr/wp-content/uploads/2022/06/Shamoing-solide-pour-cheveux-secs-Secret-de-Provence-Le-Shop-Zero-Dechet.png','Ca y est! Je suis passé au shampoing solide!','Que represente cette image? \n \n Arrose des plante  \n Tri ses déchets'),
+    ];
